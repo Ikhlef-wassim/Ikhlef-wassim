@@ -16,7 +16,7 @@
 
 **Game Developer & Web Developer • Building Worlds & Web Experiences**
 
-📍 Algeria | 💬 Discord: `ikh._.wa` | 🐙 GitHub: [@ikhlef-wassim](https://github.com) | 🌐 [Portfolio](https://github.io) | <a href="https://instagram.com"><img src="https://jsdelivr.net" height="20" width="20" style="vertical-align: middle; fill: #E4405F;" alt="Instagram"></a>
+📍 Algeria | 💬 Discord: `ikh._.wa` | 🐙 GitHub: [@ikhlef-wassim](https://github.com) | 🌐 [Portfolio](https://github.io) | [![Instagram](https://shields.io)](https://instagram.com)
 
 </div>
 
