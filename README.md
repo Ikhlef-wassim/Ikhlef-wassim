@@ -30,6 +30,12 @@
 
 ---
 
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ikhlef-wassim&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3" alt="Wassim GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikhlef-wassim&layout=compact&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=e6edf3" alt="Top Languages" />
+</p>
+
 ### Featured Projects
 
 | Project | Description | Links |
