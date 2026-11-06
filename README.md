@@ -1,23 +1,26 @@
-- Pronouns: He/Him
-- How to reach me:
-  - GitHub: [@Ikhlef-wassim](https://github.com)
+<div align="center">
+  <img src="https://demolab.com" alt="Typing SVG" />
+</div>
 
-I'm a student and aspiring software developer based in Algeria, currently building strong fundamentals in version control, command-line workflows, and software engineering.
+### About Me
 
-[![GitHub Streak](https://demolab.com)](https://git.io)
+- 📍 **Based in:** Algeria
+- 🕹️ **Role:** Game Developer & Web Developer
+- 💬 **Discord:** `ikh._.wa`
+- 🐙 **GitHub:** [@Ikhlef-wassim](https://github.com)
 
-### Skills
+<div align="center">
+  <img src="https://demolab.com" alt="GitHub Streak" />
+</div>
 
-| I have | I'm learning | In the memory banks |
+### Tech Stack
+
+| Game Development | Web Development | Workflow & Tools |
 | :--- | :--- | :--- |
-| ![My Skills](https://skillicons.dev) | ![My Skills](https://skillicons.dev) | ![My Skills](https://skillicons.dev) |
+| ![Game Dev](https://skillicons.dev) | ![Web Dev](https://skillicons.dev) | ![Tools](https://skillicons.dev) |
 
-### IDE / Tools I like
+### What I Do
 
-![Tools](https://skillicons.dev)
-
-### My down time
-
-- 🎵 **Music:** Spotify
-- 🎬 **Videos:** YouTube
-- 🎮 **Gaming:** Steam
+- 🎮 **Game Development:** Building gameplay mechanics, interactive worlds, and systems in **Unreal Engine** and **Unity** using **C++** and **C#**
+- 🌐 **Web Development:** Creating responsive interfaces and interactive web experiences with **HTML**, **CSS**, and **JavaScript**
+- 🛠️ **Version Control & CLI:** Managing projects with clean Git history, SSH/CLI workflows (`gh`), and structured Markdown documentation
