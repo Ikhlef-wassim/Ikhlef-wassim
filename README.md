@@ -64,22 +64,20 @@
 ### 🕹️ Gaming Station
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://shields.io" />
+  <a href="#">
     <img src="https://shields.io" alt="PC" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://shields.io" />
+  </a>
+  <a href="#">
     <img src="https://shields.io" alt="PlayStation" />
-  </picture>
+  </a>
 </p>
 
 #### Current Favorites & Worlds
 <p align="center">
-  <picture><img src="https://shields.io" alt="Ark" /></picture>
-  <picture><img src="https://shields.io" alt="Minecraft" /></picture>
-  <picture><img src="https://shields.io" alt="Valorant" /></picture>
-  <picture><img src="https://shields.io" alt="FIFA" /></picture>
-  <picture><img src="https://shields.io" alt="Horizon" /></picture>
-  <picture><img src="https://shields.io" alt="Hogwarts" /></picture>
+  <a href="#"><img src="https://shields.io" alt="Ark" /></a>
+  <a href="#"><img src="https://shields.io" alt="Minecraft" /></a>
+  <a href="#"><img src="https://shields.io" alt="Valorant" /></a>
+  <a href="#"><img src="https://shields.io" alt="FIFA" /></a>
+  <a href="#"><img src="https://shields.io" alt="Horizon" /></a>
+  <a href="#"><img src="https://shields.io" alt="Hogwarts" /></a>
 </p>
