@@ -63,17 +63,38 @@
 
 ### 🕹️ Gaming Station
 
-<p align="center">
-  [![PC](https://shields.io)](#)
-  [![PlayStation](https://shields.io)](#)
-</p>
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://shields.io" />
+        <img src="https://shields.io" alt="PC" />
+      </picture>
+    </td>
+    <td>&nbsp;</td>
+    <td>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://shields.io" />
+        <img src="https://shields.io" alt="PlayStation" />
+      </picture>
+    </td>
+  </tr>
+</table>
 
 #### Current Favorites & Worlds
-<p align="center">
-  [![Ark](https://shields.io)](#)
-  [![Minecraft](https://shields.io)](#)
-  [![Valorant](https://shields.io)](#)
-  [![FIFA](https://shields.io)](#)
-  [![Horizon](https://shields.io)](#)
-  [![Hogwarts](https://shields.io)](#)
-</p>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><picture><img src="https://shields.io" alt="Ark" /></picture></td>
+    <td>&nbsp;</td>
+    <td><picture><img src="https://shields.io" alt="Minecraft" /></picture></td>
+    <td>&nbsp;</td>
+    <td><picture><img src="https://shields.io" alt="Valorant" /></picture></td>
+    <td>&nbsp;</td>
+    <td><picture><img src="https://shields.io" alt="FIFA" /></picture></td>
+    <td>&nbsp;</td>
+    <td><picture><img src="https://shields.io" alt="Horizon" /></picture></td>
+    <td>&nbsp;</td>
+    <td><picture><img src="https://shields.io" alt="Hogwarts" /></picture></td>
+  </tr>
+</table>
