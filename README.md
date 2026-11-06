@@ -61,3 +61,5 @@
 | **Sorting Algorithms Visualizer** | Real-time dark-mode sorting visualizer (Bubble, Selection, Insertion, Quick Sort) with live comparison/swap counters. | [Live Demo](https://ikhlef-wassim.github.io/algo-visualizer-web/) &bull; [Source Code](https://github.com/Ikhlef-wassim/algo-visualizer-web) |
 
 ---
+
+[![Instagram](https://shields.io)](https://instagram.com)
