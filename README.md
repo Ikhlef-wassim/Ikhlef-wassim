@@ -58,3 +58,28 @@
 | **Unreal C++ Sandbox** | Unreal Engine 5 C++ gameplay systems repository featuring Blueprint-exposed `UActorComponent` classes and Git LFS asset tracking. | [Source Code](https://github.com/Ikhlef-wassim/unreal-cpp-sandbox) |
 | **Unity Arcade Prototype** | Unity C# gameplay prototype featuring responsive movement, cooldown dash mechanics, and Git LFS asset configuration. | [Source Code](https://github.com/Ikhlef-wassim/unity-arcade-prototype) |
 | **Sorting Algorithms Visualizer** | Real-time dark-mode sorting visualizer (Bubble, Selection, Insertion, Quick Sort) with live comparison/swap counters. | [Live Demo](https://ikhlef-wassim.github.io/algo-visualizer-web/) &bull; [Source Code](https://github.com/Ikhlef-wassim/algo-visualizer-web) |
+
+---
+
+### 🕹️ Gaming Station
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shields.io" />
+    <img src="https://shields.io" alt="PC" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shields.io" />
+    <img src="https://shields.io" alt="PlayStation" />
+  </picture>
+</p>
+
+#### Current Favorites & Worlds
+<p align="center">
+  <picture><img src="https://shields.io" alt="Ark" /></picture>
+  <picture><img src="https://shields.io" alt="Minecraft" /></picture>
+  <picture><img src="https://shields.io" alt="Valorant" /></picture>
+  <picture><img src="https://shields.io" alt="FIFA" /></picture>
+  <picture><img src="https://shields.io" alt="Horizon" /></picture>
+  <picture><img src="https://shields.io" alt="Hogwarts" /></picture>
+</p>
