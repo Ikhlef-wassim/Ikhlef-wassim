@@ -35,7 +35,7 @@
   <img height="165" src="https://streak-stats.demolab.com?user=Ikhlef-wassim&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="Wassim GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ikhlef-wassim&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&hide_border=false&border_color=30363d" alt="Wassim Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 ### Featured Projects
