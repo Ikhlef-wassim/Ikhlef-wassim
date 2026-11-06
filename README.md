@@ -2,7 +2,7 @@
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-v2.png" />
-    <img src="./assets/banner-v2.png" width="100%" alt="Wassim Ikhlef Banner" />
+    <img src="./assets/banner-v2.png" width="100%" alt="Ikhlef Wassim Banner" />
   </picture>
 
 <p align="center">
@@ -12,7 +12,7 @@
   </picture>
 </p>
 
-# Hi there, I'm Wassim Ikhlef 🎮💻
+# Hi there, I'm Ikhlef Wassim 🎮💻
 
 **Game Developer & Web Developer • Building Worlds & Web Experiences**
 
