@@ -2,6 +2,10 @@
 
 <img src="./assets/banner-v2.png" width="100%" alt="Wassim Ikhlef Banner" />
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Game+Developer+%26+Web+Developer;Building+Worlds+in+Unreal%2C+Unity+%26+C%2B%2B;Crafting+Interactive+Web+Experiences" alt="Typing SVG" />
+</p>
+
 # Hi there, I'm Wassim Ikhlef 🎮💻
 
 **Game Developer & Web Developer • Building Worlds & Web Experiences**
