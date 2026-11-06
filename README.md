@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="./assets/banner-v2.png" width="100%" alt="Wassim Ikhlef Banner" />
+<a href="#"><img src="./assets/banner-v2.png" width="100%" alt="Wassim Ikhlef Banner" /></a>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Game+Developer+%26+Web+Developer;Building+Worlds+in+Unreal%2C+Unity+%26+C%2B%2B;Crafting+Interactive+Web+Experiences" alt="Typing SVG" />
+  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Game+Developer+%26+Web+Developer;Building+Worlds+in+Unreal%2C+Unity+%26+C%2B%2B;Crafting+Interactive+Web+Experiences" alt="Typing SVG" /></a>
 </p>
 
 # Hi there, I'm Wassim Ikhlef 🎮💻
@@ -20,7 +20,7 @@
 
 | Game Development | Web Development | Workflow & Tools |
 | :---: | :---: | :---: |
-| <a href="https://unrealengine.com" target="_blank" rel="noopener noreferrer"><img src="./assets/unreal.svg?v=2" width="40" height="40" alt="Unreal Engine" /></a> <a href="https://unity.com" target="_blank" rel="noopener noreferrer"><img src="./assets/unity.svg" width="40" height="40" alt="Unity" /></a> <a href="https://isocpp.org" target="_blank" rel="noopener noreferrer"><img src="./assets/cpp.svg" width="40" height="40" alt="C++" /></a> <a href="https://learn.microsoft.com/dotnet/csharp/" target="_blank" rel="noopener noreferrer"><img src="./assets/cs.svg" width="40" height="40" alt="C#" /></a> | <a href="https://developer.mozilla.org/docs/Web/HTML" target="_blank" rel="noopener noreferrer"><img src="./assets/html.svg" width="40" height="40" alt="HTML5" /></a> <a href="https://developer.mozilla.org/docs/Web/CSS" target="_blank" rel="noopener noreferrer"><img src="./assets/css.svg" width="40" height="40" alt="CSS3" /></a> <a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noopener noreferrer"><img src="./assets/js.svg" width="40" height="40" alt="JavaScript" /></a> | <a href="https://git-scm.com" target="_blank" rel="noopener noreferrer"><img src="./assets/git.svg" width="40" height="40" alt="Git" /></a> <a href="https://github.com" target="_blank" rel="noopener noreferrer"><img src="./assets/github.svg?v=2" width="40" height="40" alt="GitHub" /></a> <a href="https://www.markdownguide.org" target="_blank" rel="noopener noreferrer"><img src="./assets/md.svg?v=2" width="40" height="40" alt="Markdown" /></a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noopener noreferrer"><img src="./assets/bash.svg?v=2" width="40" height="40" alt="Bash" /></a> |
+| <img src="./assets/unreal.svg?v=2" width="40" height="40" alt="Unreal Engine" /> <img src="./assets/unity.svg" width="40" height="40" alt="Unity" /> <img src="./assets/cpp.svg" width="40" height="40" alt="C++" /> <img src="./assets/cs.svg" width="40" height="40" alt="C#" /> | <img src="./assets/html.svg" width="40" height="40" alt="HTML5" /> <img src="./assets/css.svg" width="40" height="40" alt="CSS3" /> <img src="./assets/js.svg" width="40" height="40" alt="JavaScript" /> | <img src="./assets/git.svg" width="40" height="40" alt="Git" /> <img src="./assets/github.svg?v=2" width="40" height="40" alt="GitHub" /> <img src="./assets/md.svg?v=2" width="40" height="40" alt="Markdown" /> <img src="./assets/bash.svg?v=2" width="40" height="40" alt="Bash" /> |
 
 ### What I Do
 
@@ -32,10 +32,10 @@
 
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=Ikhlef-wassim&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="Wassim GitHub Streak" />
+  <a href="#"><img height="165" src="https://streak-stats.demolab.com?user=Ikhlef-wassim&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="Wassim GitHub Streak" /></a>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  <a href="#"><img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" /></a>
 </p>
 
 ### Featured Projects
