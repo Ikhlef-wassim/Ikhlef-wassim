@@ -32,8 +32,10 @@
 
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ikhlef-wassim&show_icons=true&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&icon_color=58a6ff&text_color=e6edf3" alt="Wassim GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikhlef-wassim&layout=compact&hide_border=false&bg_color=0d1117&border_color=30363d&title_color=58a6ff&text_color=e6edf3" alt="Top Languages" />
+  <img height="165" src="https://streak-stats.demolab.com?user=Ikhlef-wassim&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="Wassim GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ikhlef-wassim&bg_color=0d1117&color=58a6ff&line=58a6ff&point=e6edf3&area=true&hide_border=false&border_color=30363d" alt="Wassim Contribution Graph" />
 </p>
 
 ### Featured Projects
