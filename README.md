@@ -1,23 +1,20 @@
 <div align="center">
-  <img src="https://demolab.com" alt="Typing SVG" />
+
+# Hi there, I'm Wassim Ikhlef 🎮💻
+
+**Game Developer & Web Developer • Building Worlds & Web Experiences**
+
+📍 Algeria &nbsp;|&nbsp; 💬 Discord: `ikh._.wa` &nbsp;|&nbsp; 🐙 GitHub: [@Ikhlef-wassim](https://://github.comIkhlef-wassim)
+
 </div>
 
-### About Me
-
-- 📍 **Based in:** Algeria
-- 🕹️ **Role:** Game Developer & Web Developer
-- 💬 **Discord:** `ikh._.wa`
-- 🐙 **GitHub:** [@Ikhlef-wassim](https://github.com)
-
-<div align="center">
-  <img src="https://demolab.com" alt="GitHub Streak" />
-</div>
+---
 
 ### Tech Stack
 
 | Game Development | Web Development | Workflow & Tools |
-| :--- | :--- | :--- |
-| ![Game Dev](https://skillicons.dev) | ![Web Dev](https://skillicons.dev) | ![Tools](https://skillicons.dev) |
+| :---: | :---: | :---: |
+| <img src="./assets/unreal.svg" width="40" height="40" alt="Unreal Engine" /> <img src="./assets/unity.svg" width="40" height="40" alt="Unity" /> <img src="./assets/cpp.svg" width="40" height="40" alt="C++" /> <img src="./assets/cs.svg" width="40" height="40" alt="C#" /> | <img src="./assets/html.svg" width="40" height="40" alt="HTML5" /> <img src="./assets/css.svg" width="40" height="40" alt="CSS3" /> <img src="./assets/js.svg" width="40" height="40" alt="JavaScript" /> | <img src="./assets/git.svg" width="40" height="40" alt="Git" /> <img src="./assets/github.svg" width="40" height="40" alt="GitHub" /> <img src="./assets/md.svg" width="40" height="40" alt="Markdown" /> <img src="./assets/bash.svg" width="40" height="40" alt="Bash" /> |
 
 ### What I Do
 
