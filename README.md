@@ -1,9 +1,15 @@
 <div align="center">
 
-<a href="#"><img src="./assets/banner-v2.png" width="100%" alt="Wassim Ikhlef Banner" /></a>
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-v2.png" />
+    <img src="./assets/banner-v2.png" width="100%" alt="Wassim Ikhlef Banner" />
+  </picture>
 
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Game+Developer+%26+Web+Developer;Building+Worlds+in+Unreal%2C+Unity+%26+C%2B%2B;Crafting+Interactive+Web+Experiences" alt="Typing SVG" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Game+Developer+%26+Web+Developer;Building+Worlds+in+Unreal%2C+Unity+%26+C%2B%2B;Crafting+Interactive+Web+Experiences" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Game+Developer+%26+Web+Developer;Building+Worlds+in+Unreal%2C+Unity+%26+C%2B%2B;Crafting+Interactive+Web+Experiences" alt="Typing SVG" />
+  </picture>
 </p>
 
 # Hi there, I'm Wassim Ikhlef 🎮💻
@@ -32,10 +38,16 @@
 
 
 <p align="center">
-  <a href="#"><img height="165" src="https://streak-stats.demolab.com?user=Ikhlef-wassim&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="Wassim GitHub Streak" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Ikhlef-wassim&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" />
+    <img height="165" src="https://streak-stats.demolab.com?user=Ikhlef-wassim&hide_border=false&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=8B949E" alt="Wassim GitHub Streak" />
+  </picture>
 </p>
 <p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" /></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/output/github-contribution-grid-snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+  </picture>
 </p>
 
 ### Featured Projects
