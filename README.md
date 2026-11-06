@@ -60,16 +60,3 @@
 | **Sorting Algorithms Visualizer** | Real-time dark-mode sorting visualizer (Bubble, Selection, Insertion, Quick Sort) with live comparison/swap counters. | [Live Demo](https://ikhlef-wassim.github.io/algo-visualizer-web/) &bull; [Source Code](https://github.com/Ikhlef-wassim/algo-visualizer-web) |
 
 ---
-
-### 🕹️ Gaming Station
-
-* 💻 **PC Gaming** &bull; Steam Desktop Powerhouse
-* 🎮 **PlayStation** &bull; Console Systems &amp; Exclusives
-
-#### Current Favorites & Worlds
-* 🦖 **ARK: Survival Evolved** &bull; Sandbox Survival &amp; Taming
-* 🧱 **Minecraft** &bull; Creative Open-World Building
-* 🎯 **Valorant** &bull; Tactical Competitive FPS
-* ⚽ **FIFA / EA FC** &bull; Sports Simulation &amp; Tactics
-* 🏹 **Horizon Zero Dawn / FW** &bull; Action RPG &amp; Exploration
-* 🪄 **Hogwarts Legacy** &bull; Open-World Wizarding RPG
