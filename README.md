@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/banner.png" width="100%" alt="Wassim Ikhlef Banner" />
+
 # Hi there, I'm Wassim Ikhlef 🎮💻
 
 **Game Developer & Web Developer • Building Worlds & Web Experiences**
