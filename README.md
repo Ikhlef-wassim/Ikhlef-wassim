@@ -64,17 +64,17 @@
 ### 🕹️ Gaming Station
 
 <p align="center">
-  <img src="https://shields.io" alt="PC" />
-  <img src="https://shields.io" alt="PlayStation" />
+  <img src="assets/g-pc.svg" alt="PC" />
+  <img src="assets/g-ps.svg" alt="PlayStation" />
 </p>
 
 #### Current Favorites & Worlds
 
 <p align="center">
-  <img src="https://shields.io" alt="Ark" />
-  <img src="https://shields.io" alt="Minecraft" />
-  <img src="https://shields.io" alt="Valorant" />
-  <img src="https://shields.io" alt="FIFA" />
-  <img src="https://shields.io" alt="Horizon" />
-  <img src="https://shields.io" alt="Hogwarts" />
+  <img src="assets/g-ark.svg" alt="Ark" />
+  <img src="assets/g-mc.svg" alt="Minecraft" />
+  <img src="assets/g-val.svg" alt="Valorant" />
+  <img src="assets/g-fifa.svg" alt="FIFA" />
+  <img src="assets/g-hor.svg" alt="Horizon" />
+  <img src="assets/g-hog.svg" alt="Hogwarts" />
 </p>
