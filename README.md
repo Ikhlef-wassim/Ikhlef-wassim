@@ -55,3 +55,4 @@
 | Project | Description | Links |
 | :--- | :--- | :--- |
 | **Pixel Brick Breaker** | Interactive 60 FPS HTML5 Canvas arcade game with arrow-key paddle physics, wave progression, and persistent high scores. | [Live Demo](https://ikhlef-wassim.github.io/pixel-arcade-web/) &bull; [Source Code](https://github.com/Ikhlef-wassim/pixel-arcade-web) |
+| **Unreal C++ Sandbox** | Unreal Engine 5 C++ gameplay systems repository featuring Blueprint-exposed `UActorComponent` classes and Git LFS asset tracking. | [Source Code](https://github.com/Ikhlef-wassim/unreal-cpp-sandbox) |
