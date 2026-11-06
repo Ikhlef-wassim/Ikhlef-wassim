@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-v2.png" />
-    <img src="./assets/banner-v2.png" width="100%" alt="Ikhlef Wassim Banner" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-v3.png" />
+    <img src="./assets/banner-v3.png" width="100%" alt="Ikhlef Wassim Banner" />
   </picture>
 
 <p align="center">
