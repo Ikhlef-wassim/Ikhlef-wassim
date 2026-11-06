@@ -23,3 +23,11 @@
 - 🎮 **Game Development:** Building gameplay mechanics, interactive worlds, and systems in **Unreal Engine** and **Unity** using **C++** and **C#**
 - 🌐 **Web Development:** Creating responsive interfaces and interactive web experiences with **HTML**, **CSS**, and **JavaScript**
 - 🛠️ **Version Control & CLI:** Managing projects with clean Git history, SSH/CLI workflows (`gh`), and structured Markdown documentation
+
+---
+
+### Featured Projects
+
+| Project | Description | Links |
+| :--- | :--- | :--- |
+| **Pixel Brick Breaker** | Interactive 60 FPS HTML5 Canvas arcade game with arrow-key paddle physics, wave progression, and persistent high scores. | [Live Demo](https://ikhlef-wassim.github.io/pixel-arcade-web/) &bull; [Source Code](https://github.com/Ikhlef-wassim/pixel-arcade-web) |
