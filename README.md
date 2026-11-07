@@ -16,7 +16,11 @@
 
 **Game Developer & Web Developer • Building Worlds & Web Experiences**
 
+<div align="center">
+
 📍 Algeria | 💬 Discord: `ikh._.wa` | 🐙 GitHub: [@ikhlef-wassim](https://github.com/Ikhlef-wassim) | 🌐 [Portfolio](https://ikhlef-wassim.github.io) | <a href="https://instagram.com/unhinged_.dev"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+</div>
 
 </div>
 
