@@ -2,7 +2,7 @@
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-v3.png" />
-    <img src="./assets/banner-v3.png" width="100%" alt="Ikhlef Wassim Banner" />
+    <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/banner-v3.png" width="100%" alt="Ikhlef Wassim Banner" />
   </picture>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 | Game Development | Web Development | Workflow & Tools |
 | :---: | :---: | :---: |
-| <img src="./assets/unreal.svg?v=2" width="40" height="40" alt="Unreal Engine" /> <img src="./assets/unity.svg" width="40" height="40" alt="Unity" /> <img src="./assets/cpp.svg" width="40" height="40" alt="C++" /> <img src="./assets/cs.svg" width="40" height="40" alt="C#" /> | <img src="./assets/html.svg" width="40" height="40" alt="HTML5" /> <img src="./assets/css.svg" width="40" height="40" alt="CSS3" /> <img src="./assets/js.svg" width="40" height="40" alt="JavaScript" /> | <img src="./assets/git.svg" width="40" height="40" alt="Git" /> <img src="./assets/github.svg?v=2" width="40" height="40" alt="GitHub" /> <img src="./assets/md.svg?v=2" width="40" height="40" alt="Markdown" /> <img src="./assets/bash.svg?v=2" width="40" height="40" alt="Bash" /> |
+| <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/unreal.svg?v=2" width="40" height="40" alt="Unreal Engine" /> <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/unity.svg" width="40" height="40" alt="Unity" /> <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/cpp.svg" width="40" height="40" alt="C++" /> <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/cs.svg" width="40" height="40" alt="C#" /> | <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/html.svg" width="40" height="40" alt="HTML5" /> <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/css.svg" width="40" height="40" alt="CSS3" /> <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/js.svg" width="40" height="40" alt="JavaScript" /> | <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/git.svg" width="40" height="40" alt="Git" /> <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/github.svg?v=2" width="40" height="40" alt="GitHub" /> <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/md.svg?v=2" width="40" height="40" alt="Markdown" /> <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/bash.svg?v=2" width="40" height="40" alt="Bash" /> |
 
 ### What I Do
 
