@@ -18,7 +18,7 @@
 
 <div align="center">
 
-📍 Algeria | 💬 Discord: `ikh._.wa` | 🐙 GitHub: [@ikhlef-wassim](https://github.com/Ikhlef-wassim) | 🌐 [Portfolio](https://ikhlef-wassim.github.io) | <a href="https://instagram.com/unhinged_.dev"><img align="absmiddle" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
+📍 Algeria | 💬 Discord: `ikh._.wa` | 🐙 GitHub: [@ikhlef-wassim](https://github.com/Ikhlef-wassim) | 🌐 [Portfolio](https://ikhlef-wassim.github.io) | <a href="https://instagram.com/unhinged_.dev"><img align="absmiddle" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a> | <a href="mailto:wassimahmed5455@gmail.com"><img align="absmiddle" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
@@ -37,6 +37,11 @@
 - 🎮 **Game Development:** Building gameplay mechanics, interactive worlds, and systems in **Unreal Engine** and **Unity** using **C++** and **C#**
 - 🌐 **Web Development:** Creating responsive interfaces and interactive web experiences with **HTML**, **CSS**, and **JavaScript**
 - 🤝 **Open to Collaborate:** Looking for game jams, indie projects, and freelance web work. Reach me on Discord: `ikh._.wa`
+
+### Playing & Inspirations
+
+- 🎮 **Playing:** ARK, Subnautica
+- ✨ **Inspired by:** Minecraft, Hogwarts Legacy
 
 ---
 
