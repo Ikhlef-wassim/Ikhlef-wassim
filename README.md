@@ -2,7 +2,7 @@
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-v3.png" />
-    <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/banner-v3.png" width="100%" alt="Ikhlef Wassim Banner" />
+    <picture><img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/banner-v3.png" width="100%" alt="Ikhlef Wassim Banner" /></picture>
   </picture>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 | Game Development | Web Development | Workflow & Tools |
 | :---: | :---: | :---: |
-| <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/unreal.svg?v=2" width="40" height="40" alt="Unreal Engine" /> <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/unity.svg" width="40" height="40" alt="Unity" /> <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/cpp.svg" width="40" height="40" alt="C++" /> <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/cs.svg" width="40" height="40" alt="C#" /> | <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/html.svg" width="40" height="40" alt="HTML5" /> <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/css.svg" width="40" height="40" alt="CSS3" /> <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/js.svg" width="40" height="40" alt="JavaScript" /> | <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/git.svg" width="40" height="40" alt="Git" /> <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/github.svg?v=2" width="40" height="40" alt="GitHub" /> <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/md.svg?v=2" width="40" height="40" alt="Markdown" /> <img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/bash.svg?v=2" width="40" height="40" alt="Bash" /> |
+| <picture><img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/unreal.svg?v=2" width="40" height="40" alt="Unreal Engine" /></picture> <picture><img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/unity.svg" width="40" height="40" alt="Unity" /></picture> <picture><img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/cpp.svg" width="40" height="40" alt="C++" /></picture> <picture><img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/cs.svg" width="40" height="40" alt="C#" /></picture> | <picture><img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/html.svg" width="40" height="40" alt="HTML5" /></picture> <picture><img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/css.svg" width="40" height="40" alt="CSS3" /></picture> <picture><img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/js.svg" width="40" height="40" alt="JavaScript" /></picture> | <picture><img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/git.svg" width="40" height="40" alt="Git" /></picture> <picture><img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/github.svg?v=2" width="40" height="40" alt="GitHub" /></picture> <picture><img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/md.svg?v=2" width="40" height="40" alt="Markdown" /></picture> <picture><img src="https://raw.githubusercontent.com/Ikhlef-wassim/Ikhlef-wassim/main/assets/bash.svg?v=2" width="40" height="40" alt="Bash" /></picture> |
 
 ### What I Do
 
@@ -63,7 +63,7 @@
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
-| **Pixel Brick Breaker** | Interactive 60 FPS HTML5 Canvas arcade game with arrow-key paddle physics, wave progression, and persistent high scores.<br><img src="assets/brick-breaker.gif" width="300" alt="Pixel Brick Breaker preview" /> | [Live Demo](https://ikhlef-wassim.github.io/pixel-arcade-web/) &bull; [Source Code](https://github.com/Ikhlef-wassim/pixel-arcade-web) |
+| **Pixel Brick Breaker** | Interactive 60 FPS HTML5 Canvas arcade game with arrow-key paddle physics, wave progression, and persistent high scores.<br><picture><img src="assets/brick-breaker.gif" width="300" alt="Pixel Brick Breaker preview" /></picture> | [Live Demo](https://ikhlef-wassim.github.io/pixel-arcade-web/) &bull; [Source Code](https://github.com/Ikhlef-wassim/pixel-arcade-web) |
 | **Unreal C++ Sandbox** | Unreal Engine 5 C++ gameplay systems repository featuring Blueprint-exposed `UActorComponent` classes and Git LFS asset tracking. | [Source Code](https://github.com/Ikhlef-wassim/unreal-cpp-sandbox) |
 | **Unity Arcade Prototype** | Unity C# gameplay prototype featuring responsive movement, cooldown dash mechanics, and Git LFS asset configuration. | [Source Code](https://github.com/Ikhlef-wassim/unity-arcade-prototype) |
 | **C++ Terminal Arcade** | 2D ASCII rogue dungeon crawler game engine written in pure C++ with custom non-canonical keyboard parsing and bounds physics. | [Source Code](https://github.com/Ikhlef-wassim/cpp-terminal-arcade) |
