@@ -18,7 +18,7 @@
 
 <div align="center">
 
-📍 Algeria | 💬 Discord: `ikh._.wa` | 🐙 GitHub: [@ikhlef-wassim](https://github.com/Ikhlef-wassim) | 🌐 [Portfolio](https://ikhlef-wassim.github.io) | <a href="https://instagram.com/unhinged_.dev"><img align="absmiddle" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a> | <a href="mailto:wassimahmed5455@gmail.com"><img align="absmiddle" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+📍 Algeria | <img align="absmiddle" src="https://cdn.simpleicons.org/discord/5865F2" width="18" height="18" alt="Discord" /> Discord: `ikh._.wa` | 🐙 GitHub: [@ikhlef-wassim](https://github.com/Ikhlef-wassim) | 🌐 [Portfolio](https://ikhlef-wassim.github.io) | <a href="https://instagram.com/unhinged_.dev"><img align="absmiddle" src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a> | <a href="mailto:wassimahmed5455@gmail.com"><img align="absmiddle" src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
