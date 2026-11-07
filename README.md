@@ -63,7 +63,7 @@
 
 | Project | Description | Links |
 | :--- | :--- | :--- |
-| **Pixel Brick Breaker** | Interactive 60 FPS HTML5 Canvas arcade game with arrow-key paddle physics, wave progression, and persistent high scores. | [Live Demo](https://ikhlef-wassim.github.io/pixel-arcade-web/) &bull; [Source Code](https://github.com/Ikhlef-wassim/pixel-arcade-web) |
+| **Pixel Brick Breaker** | Interactive 60 FPS HTML5 Canvas arcade game with arrow-key paddle physics, wave progression, and persistent high scores.<br><img src="assets/brick-breaker.gif" width="300" alt="Pixel Brick Breaker preview" /> | [Live Demo](https://ikhlef-wassim.github.io/pixel-arcade-web/) &bull; [Source Code](https://github.com/Ikhlef-wassim/pixel-arcade-web) |
 | **Unreal C++ Sandbox** | Unreal Engine 5 C++ gameplay systems repository featuring Blueprint-exposed `UActorComponent` classes and Git LFS asset tracking. | [Source Code](https://github.com/Ikhlef-wassim/unreal-cpp-sandbox) |
 | **Unity Arcade Prototype** | Unity C# gameplay prototype featuring responsive movement, cooldown dash mechanics, and Git LFS asset configuration. | [Source Code](https://github.com/Ikhlef-wassim/unity-arcade-prototype) |
 | **C++ Terminal Arcade** | 2D ASCII rogue dungeon crawler game engine written in pure C++ with custom non-canonical keyboard parsing and bounds physics. | [Source Code](https://github.com/Ikhlef-wassim/cpp-terminal-arcade) |
