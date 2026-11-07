@@ -36,7 +36,7 @@
 
 - 🎮 **Game Development:** Building gameplay mechanics, interactive worlds, and systems in **Unreal Engine** and **Unity** using **C++** and **C#**
 - 🌐 **Web Development:** Creating responsive interfaces and interactive web experiences with **HTML**, **CSS**, and **JavaScript**
-- 🛠️ **Version Control & CLI:** Managing projects with clean Git history, SSH/CLI workflows (`gh`), and structured Markdown documentation
+- 🤝 **Open to Collaborate:** Looking for game jams, indie projects, and freelance web work. Reach me on Discord: `ikh._.wa`
 
 ---
 
